@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="155 85 671 548" width="516px" height="463px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="120" height="20" x="443" y="419" style="fill:#007;stroke:black;"/>
+   <text width="120" height="20" x="448" y="433" style="fill:#fff;" font-family="Arial" font-size="16px"> administradores</text>
+   <rect width="120" height="20" x="443" y="439" style="fill:#aea;stroke:black;"/>
+   <text width="120" height="20" x="448" y="453" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="120" height="20" x="443" y="459" style="fill:none;stroke:black;"/>
+   <text width="120" height="20" x="448" y="473" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="120" height="20" x="443" y="479" style="fill:none;stroke:black;"/>
+   <text width="120" height="20" x="448" y="493" style="fill:black;" font-family="Arial" font-size="16px">clave</text>
+   <rect width="71" height="20" x="317" y="100" style="fill:#007;stroke:black;"/>
+   <text width="71" height="20" x="322" y="114" style="fill:#fff;" font-family="Arial" font-size="16px"> cocinero</text>
+   <rect width="71" height="20" x="317" y="120" style="fill:#aea;stroke:black;"/>
+   <text width="71" height="20" x="322" y="134" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="71" height="20" x="317" y="140" style="fill:none;stroke:black;"/>
+   <text width="71" height="20" x="322" y="154" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="71" height="20" x="317" y="160" style="fill:none;stroke:black;"/>
+   <text width="71" height="20" x="322" y="174" style="fill:black;" font-family="Arial" font-size="16px">clave</text>
+   <rect width="64" height="20" x="583" y="433" style="fill:#007;stroke:black;"/>
+   <text width="64" height="20" x="588" y="447" style="fill:#fff;" font-family="Arial" font-size="16px"> menu</text>
+   <rect width="64" height="20" x="583" y="453" style="fill:#aea;stroke:black;"/>
+   <text width="64" height="20" x="588" y="467" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="64" height="20" x="583" y="473" style="fill:none;stroke:black;"/>
+   <text width="64" height="20" x="588" y="487" style="fill:black;" font-family="Arial" font-size="16px">tipo</text>
+   <rect width="64" height="20" x="583" y="493" style="fill:none;stroke:black;"/>
+   <text width="64" height="20" x="588" y="507" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="64" height="20" x="583" y="513" style="fill:none;stroke:black;"/>
+   <text width="64" height="20" x="588" y="527" style="fill:black;" font-family="Arial" font-size="16px">precio</text>
+   <rect width="64" height="20" x="542" y="200" style="fill:#007;stroke:black;"/>
+   <text width="64" height="20" x="547" y="214" style="fill:#fff;" font-family="Arial" font-size="16px"> mesas</text>
+   <rect width="64" height="20" x="542" y="220" style="fill:#aea;stroke:black;"/>
+   <text width="64" height="20" x="547" y="234" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="64" height="20" x="542" y="240" style="fill:none;stroke:black;"/>
+   <text width="64" height="20" x="547" y="254" style="fill:black;" font-family="Arial" font-size="16px">numero</text>
+   <rect width="64" height="20" x="542" y="260" style="fill:none;stroke:black;"/>
+   <text width="64" height="20" x="547" y="274" style="fill:black;" font-family="Arial" font-size="16px">validar</text>
+   <rect width="64" height="20" x="592" y="338" style="fill:#007;stroke:black;"/>
+   <text width="64" height="20" x="597" y="352" style="fill:#fff;" font-family="Arial" font-size="16px"> mesero</text>
+   <rect width="64" height="20" x="592" y="358" style="fill:#aea;stroke:black;"/>
+   <text width="64" height="20" x="597" y="372" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="64" height="20" x="592" y="378" style="fill:none;stroke:black;"/>
+   <text width="64" height="20" x="597" y="392" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="64" height="20" x="592" y="398" style="fill:none;stroke:black;"/>
+   <text width="64" height="20" x="597" y="412" style="fill:black;" font-family="Arial" font-size="16px">clave</text>
+   <rect width="117" height="20" x="170" y="253" style="fill:#007;stroke:black;"/>
+   <text width="117" height="20" x="175" y="267" style="fill:#fff;" font-family="Arial" font-size="16px"> orden</text>
+   <rect width="117" height="20" x="170" y="273" style="fill:#aea;stroke:black;"/>
+   <text width="117" height="20" x="175" y="287" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="117" height="20" x="170" y="293" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="175" y="307" style="fill:black;" font-family="Arial" font-size="16px">pedido</text>
+   <rect width="117" height="20" x="170" y="313" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="175" y="327" style="fill:black;" font-family="Arial" font-size="16px">numero_mesa</text>
+   <rect width="117" height="20" x="170" y="333" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="175" y="347" style="fill:black;" font-family="Arial" font-size="16px">total</text>
+   <rect width="117" height="20" x="170" y="353" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="175" y="367" style="fill:black;" font-family="Arial" font-size="16px">validar_mese</text>
+   <rect width="117" height="20" x="170" y="373" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="175" y="387" style="fill:black;" font-family="Arial" font-size="16px">validar_coci</text>
+   <rect width="117" height="20" x="170" y="393" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="175" y="407" style="fill:black;" font-family="Arial" font-size="16px">id_mesero</text>
+   <rect width="117" height="20" x="170" y="413" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="175" y="427" style="fill:black;" font-family="Arial" font-size="16px">validar_entrega</text>
+   <rect width="108" height="20" x="331" y="340" style="fill:#007;stroke:black;"/>
+   <text width="108" height="20" x="336" y="354" style="fill:#fff;" font-family="Arial" font-size="16px"> ventas</text>
+   <rect width="108" height="20" x="331" y="360" style="fill:#aea;stroke:black;"/>
+   <text width="108" height="20" x="336" y="374" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="108" height="20" x="331" y="380" style="fill:none;stroke:black;"/>
+   <text width="108" height="20" x="336" y="394" style="fill:black;" font-family="Arial" font-size="16px">id_mesero</text>
+   <rect width="108" height="20" x="331" y="400" style="fill:none;stroke:black;"/>
+   <text width="108" height="20" x="336" y="414" style="fill:black;" font-family="Arial" font-size="16px">numero_mesa</text>
+   <rect width="108" height="20" x="331" y="420" style="fill:none;stroke:black;"/>
+   <text width="108" height="20" x="336" y="434" style="fill:black;" font-family="Arial" font-size="16px">Total</text>
+</svg>
